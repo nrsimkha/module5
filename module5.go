@@ -28,3 +28,8 @@ func funcReturningError(i int) (int, error) {
 
 	return i, nil
 }
+func testt() int {
+	return 0
+}
+
+// version 2 of this file
